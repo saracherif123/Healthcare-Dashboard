@@ -3,7 +3,7 @@
 # Healthcare-Power-BI-Project
 
 ## TASK
-Analyze a survey on data professionals for breaking into a data role.
+Analyze Healthcare data to get insights on wait lists and their specialities.
 
 ## Tool
 Power BI
